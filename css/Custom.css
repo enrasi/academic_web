@@ -1,0 +1,85 @@
+﻿.inner {
+}
+
+.navbar .nav > li {
+    font-size: 18px;
+}
+
+.navbar .brand {
+    font-size: 28px;
+    float: right;
+}
+
+.navbar .nav > li > a {
+    color: #2e8bcc;
+    margin-left: 12px;
+}
+
+.navbar .nav > ul {
+    width: 1024px;
+    margin: auto;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: #2e8bcc;
+}
+
+.brand {
+    float: left;
+    padding: 7.5px 20px 7.5px;
+    margin-left: -20px;
+    font-size: 27px;
+    font-weight: 200;
+    color: #555555;
+    text-shadow: 0 1px 0 #ffffff;
+    margin-bottom: 15px;
+}
+
+.nav {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.navbar .nav {
+    margin-bottom: 13px;
+}
+
+    .navbar .nav > li > a {
+        color: white;
+        padding-top: 3px;
+        padding-bottom: 4px;
+    }
+
+.nav .btn {
+    font-size: 16px;
+}
+
+.navbar .nav > li > a:hover {
+    background-color: #00aba9;
+    color: white;
+}
+
+.hero-unit {
+    margin-top: 75px;
+    background-image: url('../img/3.jpg');
+}
+
+    .hero-unit h1, .hero-unit p {
+        text-transform: none;
+    }
+
+/*.thumbnails > li.tile {
+    height: 70px;
+}
+
+    .thumbnails > li.tile h1 {
+        font-size: 40px;
+    }*/
+.fbt {
+    float: right;
+}
+
+.row {
+    padding-top: 440px;
+    margin-bottom: -45px;
+}
